@@ -12,7 +12,7 @@ Data Analyst in Progress 🚀 | Passionate about insights & growth
 
 ### 🛠️ Things I’ve Built
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/JapCalabyu/List-of-Projects/blob/main/README.md).
 
 ### ⚙️ Tools & Technologies
 - **Language**: SQL  
