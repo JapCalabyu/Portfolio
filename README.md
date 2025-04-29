@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-![Brown and Gray Simple Personal LinkedIn Banner](https://www.canva.com/design/DAGmCVP6U58/13uljSY6EEMR02JMeWEffQ/edit?utm_content=DAGmCVP6U58&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/JapCalabyu/Portfolio/blob/main/Black%20and%20Beige%20Modern%20Handwriting%20Professional%20Business%20LinkedIn%20Banner.png)
 
 Hello, I'm Jap. Entry Level Data Analyst that wants to excel in this field.
 
