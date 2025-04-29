@@ -31,5 +31,4 @@ Spreadsheets: Microsoft Excel
 
 ### 👋🏻 Connect with Me
 
-- [Linkedin](https://www.linkedin.com/in/katiehuangx/)
-- Hire me on [Upwork](https://www.upwork.com/freelancers/~016ea4ffe7d7d64c1d)
+- [Linkedin](www.linkedin.com/in/jasper-john-calabio-619b23237)
