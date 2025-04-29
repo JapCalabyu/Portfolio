@@ -29,6 +29,6 @@ Spreadsheets: Microsoft Excel
 
 
 
-### 👋🏻 Connect with Me
+### 🏢 Connect with Me
 
 - [Linkedin](www.linkedin.com/in/jasper-john-calabio-619b23237)
