@@ -1,4 +1,4 @@
-## 🙋🏻‍♀️ Introducing Myself
+## 👋 Who I Am
 
 ![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/JapCalabyu/Portfolio/blob/main/Black%20and%20Beige%20Modern%20Handwriting%20Professional%20Business%20LinkedIn%20Banner.png)
 
