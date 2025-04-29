@@ -14,7 +14,8 @@ Data Analyst in Progress 🚀 | Passionate about insights & growth
 
 -📁 Simulated real-world business questions and provided actionable recommendations based on data trends.
 
-### 📚 Projects
+
+### 🛠️ Things I’ve Built
 
 Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
 
