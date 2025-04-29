@@ -2,7 +2,7 @@
 
 ![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/JapCalabyu/Portfolio/blob/main/Black%20and%20Beige%20Modern%20Handwriting%20Professional%20Business%20LinkedIn%20Banner.png)
 
-Hello, I'm Jap. Entry Level Data Analyst that wants to excel in this field.
+Data Analyst in Progress 🚀 | Passionate about insights & growth
 
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
