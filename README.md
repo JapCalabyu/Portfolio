@@ -4,6 +4,7 @@
 
 Data Analyst in Progress 🚀 | Passionate about insights & growth
 
+
 -🔍 Queried, filtered, and joined datasets using SQL to extract insights.
 
 -📊 Created and maintained interactive dashboards in Tableau and Looker Studio to visualize KPIs and support data-driven decisions.
@@ -15,6 +16,7 @@ Data Analyst in Progress 🚀 | Passionate about insights & growth
 -📁 Simulated real-world business questions and provided actionable recommendations based on data trends.
 
 
+
 ### 🛠️ Things I’ve Built
 
 Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
@@ -24,6 +26,8 @@ Language: SQL
 Database: MySQL
 Visualization: Tableau, Microsoft Power BI
 Spreadsheets: Microsoft Excel
+
+
 
 ### 👋🏻 Connect with Me
 
