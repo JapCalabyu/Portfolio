@@ -19,11 +19,11 @@ Data Analyst in Progress 🚀 | Passionate about insights & growth
 
 Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
 
-### 🛠️ Tools
-
-- Language: SQL, Python
-- Database: Google BigQuery, PostgreSQL, MySQL
-- Visualization: Tableau, Looker Studio
+###⚙️ Tools & Technologies
+Language: SQL
+Database: MySQL
+Visualization: Tableau, Microsoft Power BI
+Spreadsheets: Microsoft Excel
 
 ### 👋🏻 Connect with Me
 
