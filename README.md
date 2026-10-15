@@ -2,7 +2,7 @@
 
 ![Brown and Gray Simple Personal LinkedIn Banner](https://raw.githubusercontent.com/JapCalabyu/Portfolio/main/Black%20and%20Beige%20Modern%20Handwriting%20Professional%20Business%20LinkedIn%20Banner.png)
 
-**Data Analyst in Progress 🚀 | Passionate About Insights & Growth**
+**Aspiring Data Analyst & Data Engineer 🚀 | Learning Through Hands-On Projects**
 
 - 🔍 Queried, filtered, and joined datasets using SQL to extract meaningful insights.  
 - 📊 Built and maintained interactive dashboards in Tableau and Looker Studio to visualize KPIs and support data-driven decisions.  
@@ -15,10 +15,10 @@
 Welcome to my portfolio, where I showcase my [projects](https://github.com/JapCalabyu/List-of-Projects/blob/main/README.md).
 
 ### ⚙️ Tools & Technologies
-- **Languages**: SQL  
-- **Databases**: MySQL  
-- **Visualization**: Tableau, Microsoft Power BI  
-- **Spreadsheets**: Microsoft Excel
+- **Languages:** SQL
+- **Databases & Data Platforms:** MySQL, Snowflake
+- **Visualization:** Tableau, Microsoft Power BI, Looker Studio
+- **Spreadsheets:** Microsoft Excel, Google Sheets
 
 ### 🏢 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/jasper-john-calabio-619b23237)
