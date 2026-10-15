@@ -2,7 +2,7 @@
 
 ![Brown and Gray Simple Personal LinkedIn Banner](https://raw.githubusercontent.com/JapCalabyu/Portfolio/main/Black%20and%20Beige%20Modern%20Handwriting%20Professional%20Business%20LinkedIn%20Banner.png)
 
-**Aspiring Data Analyst & Data Engineer 🚀 | Learning Through Hands-On Projects**
+**BI Engineer and Aspiring Data Engineer 🚀 | Learning Through Hands-On Projects**
 
 - 🔍 Queried, filtered, and joined datasets using SQL to extract meaningful insights.  
 - 📊 Built and maintained interactive dashboards in Tableau and Looker Studio to visualize KPIs and support data-driven decisions.  
